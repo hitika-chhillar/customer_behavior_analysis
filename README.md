@@ -145,5 +145,4 @@ Example:
 ```bash
 pip install pandas jupyter
 
-```bash
-pip install pandas jupyter
+
